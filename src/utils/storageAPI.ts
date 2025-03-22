@@ -6,7 +6,7 @@ const GITHUB_TOKEN = "Y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"; // my personal
 const GITHUB_REPO = "salindrachettri/weseantimesnew"; // Replaced 
 const GITHUB_BRANCH = "main"; // whatever branch a person is using
 const ARTICLES_PATH = "data/articles.json"; // Path in the repo where articles will be stored
-
+ 
 // GitHub Pages compatible storage solution with GitHub API backend
 export const StorageAPI = {
   // Get the articles data
