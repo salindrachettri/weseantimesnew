@@ -5,7 +5,7 @@ import { articles as defaultArticles } from "@/data/articles";
 const GITHUB_TOKEN = "Y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"; // my personal github token, used classic
 const GITHUB_REPO = "salindrachettri/weseantimesnew"; // Replaced 
 const GITHUB_BRANCH = "main"; // whatever branch a person is using
-const ARTICLES_PATH = "data/articles.json"; // Path in the repo where articles will be stored
+const ARTICLES_PATH = "data/articles.ts"; // Path in the repo where articles will be stored
  
 // GitHub Pages compatible storage solution with GitHub API backend
 export const StorageAPI = {
