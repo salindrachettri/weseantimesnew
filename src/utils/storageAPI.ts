@@ -3,7 +3,7 @@ import { articles as defaultArticles } from "@/data/articles";
 
 // Configuration for GitHub API access
 const GITHUB_TOKEN = "Y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"; // my personal github token, used classic
-const GITHUB_REPO = "DeadstarIII/WeseanTimes"; // Replaced 
+const GITHUB_REPO = "salindrachettri/weseantimesnew"; // Replaced 
 const GITHUB_BRANCH = "main"; // whatever branch a person is using
 const ARTICLES_PATH = "data/articles.json"; // Path in the repo where articles will be stored
 
